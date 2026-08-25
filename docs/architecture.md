@@ -67,4 +67,4 @@ The relational database will consist of three main tables:
 A three-tier architecture was chosen because:
 - **Separation of Concerns:** Each layer handles a specific aspect of the system. UI designers can work independently of database engineers.
 - **Scalability:** If the application logic becomes resource-heavy, the application server can be scaled independently of the database.
-- **Security:** The database is hidden behind the application layer. Direct access from the client is impossible, allowing the application layer to enforce security rules before database interaction.
+- **Security:** The database is hidden behind the application layer. Direct access from the client is impossible, allowing the application layer to enforce security rules before database interaction...

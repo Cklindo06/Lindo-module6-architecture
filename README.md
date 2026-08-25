@@ -4,4 +4,4 @@ This repository contains the architectural design documentation for a simple web
 
 ## Files Included
 * `README.md` - Repository overview.
-* `docs/architecture.md` - Detailed architectural design, diagrams, and database plan.
+* `docs/architecture.md` - Detailed architectural design, diagrams, and database plan....
